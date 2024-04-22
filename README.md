@@ -25,3 +25,36 @@ cd sc-obs-control-ls;
 npm install;
 npm run dev;
 ```
+
+## OBS Config [👉 v29.1.3](https://www.obsstudio.net/latest-obs-studio/)
+
+### Login
+
+- PORT: `4455`
+- PASSWORD: `asdf1234`
+
+![obs](/images/image.png)
+
+### Scenes
+
+- ``text``:
+  - `description`: *Text year*
+  - `type`: *image*
+- ``jw``
+  - `description`: *JW Sign Library second window*
+  - `type`: *Window capture*
+- ``next``
+  - `description`: *Intelbras SIM Next window*
+  - `type`: *Window capture*
+- ``zoom-1``
+  - `description`: *Zoom meetings window*
+  - `type`: *Window capture*
+- ``zoom-2``
+  - `description`: *Zoom meetings window*
+  - `type`: *Window capture*
+
+---
+
+<div align="center">
+<img alt="cenas" src="./images/scenes.png">
+</div>
