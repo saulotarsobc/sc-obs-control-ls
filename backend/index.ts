@@ -8,12 +8,10 @@ import { initLogs } from "./utils/initLogs";
 
 function createWindow() {
   const win = new BrowserWindow({
-    // width: 700,
-    // height: 400,
-    width: 900,
-    height: 900,
-    maxWidth: 900,
-    maxHeight: 900,
+    width: 700,
+    height: 400,
+    minWidth: 700,
+    minHeight: 400,
     webPreferences: {
       nodeIntegration: false,
       contextIsolation: false,

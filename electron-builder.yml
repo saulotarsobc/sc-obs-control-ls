@@ -34,10 +34,10 @@ win:
   icon: ./build/icon.png
   publisherName: Saulo INC
   artifactName: ${productName}-Setup-${version}.${ext}
-  signAndEditExecutable: true
-  verifyUpdateCodeSignature: true
-  signingHashAlgorithms:
-  - sha256
+  # signAndEditExecutable: true
+# verifyUpdateCodeSignature: true
+# signingHashAlgorithms:
+# - sha256
 
 # Mac
 mac:
