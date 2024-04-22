@@ -33,7 +33,9 @@ npm run dev;
 - PORT: `4455`
 - PASSWORD: `asdf1234`
 
-![obs](/images/image.png)
+<div align="center">
+  <img alt="obs confgi" src="./images/image.png">
+</div>
 
 ### Scenes
 
@@ -56,5 +58,5 @@ npm run dev;
 ---
 
 <div align="center">
-<img alt="cenas" src="./images/scenes.png">
+  <img alt="cenas" src="./images/scenes.png">
 </div>
