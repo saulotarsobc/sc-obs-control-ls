@@ -11,7 +11,7 @@
         "mixers": 255,
         "sync": 0,
         "flags": 0,
-        "volume": 1.0,
+        "volume": 0.0,
         "balance": 0.5,
         "enabled": true,
         "muted": true,
@@ -61,8 +61,8 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "zoom-2",
-    "current_program_scene": "zoom-2",
+    "current_scene": "zoom-1",
+    "current_program_scene": "zoom-1",
     "scene_order": [
         {
             "name": "text"
@@ -1122,7 +1122,11 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "hotkeys": {
-                "OBSBasic.SelectScene": [],
+                "OBSBasic.SelectScene": [
+                    {
+                        "key": "OBS_KEY_2"
+                    }
+                ],
                 "libobs.show_scene_item.Grupo": [],
                 "libobs.hide_scene_item.Grupo": [],
                 "libobs.show_scene_item.janela do jw": [],
@@ -1311,7 +1315,11 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "hotkeys": {
-                "OBSBasic.SelectScene": [],
+                "OBSBasic.SelectScene": [
+                    {
+                        "key": "OBS_KEY_3"
+                    }
+                ],
                 "libobs.show_scene_item.Grupo 2": [],
                 "libobs.hide_scene_item.Grupo 2": [],
                 "libobs.show_scene_item.janela do intelbras next": [],
@@ -1500,7 +1508,11 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "hotkeys": {
-                "OBSBasic.SelectScene": [],
+                "OBSBasic.SelectScene": [
+                    {
+                        "key": "OBS_KEY_1"
+                    }
+                ],
                 "libobs.show_scene_item.fundo": [],
                 "libobs.hide_scene_item.fundo": [],
                 "libobs.show_scene_item.texto do ano": [],
@@ -1862,7 +1874,11 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "hotkeys": {
-                "OBSBasic.SelectScene": [],
+                "OBSBasic.SelectScene": [
+                    {
+                        "key": "OBS_KEY_4"
+                    }
+                ],
                 "libobs.show_scene_item.Grupo 3": [],
                 "libobs.hide_scene_item.Grupo 3": [],
                 "libobs.show_scene_item.janela do zoom para uma pessoa": [],
@@ -2051,7 +2067,11 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "hotkeys": {
-                "OBSBasic.SelectScene": [],
+                "OBSBasic.SelectScene": [
+                    {
+                        "key": "OBS_KEY_5"
+                    }
+                ],
                 "libobs.show_scene_item.Grupo 4": [],
                 "libobs.hide_scene_item.Grupo 4": [],
                 "libobs.show_scene_item.janela do zoom para duas pessoal": [],
