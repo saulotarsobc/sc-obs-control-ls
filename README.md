@@ -1,5 +1,13 @@
 # SC - OBS Control LS
 
+> Electron + Typescript + Next
+
+
+<div align="center">
+  <img alt="banner app" src="./images/banner.png">
+</div>
+
+
 <div align="center">
    <!-- <img alt="Build Status" src="https://img.shields.io/travis/saulotarsobc/scripts.svg"> -->
    <!-- <img alt="Test Coverage" src="https://img.shields.io/codecov/c/github/saulotarsobc/scripts.svg"> -->
@@ -11,11 +19,6 @@
    <img alt="Stars" src="https://img.shields.io/github/stars/saulotarsobc/sc-obs-control-ls.svg">
 </div>
 
----
-
-> Electron + Typescript + Next
-
----
 
 ## Download
 
