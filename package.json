@@ -1,7 +1,7 @@
 {
   "name": "sc-obs-control-ls",
   "displayName": "SC - OBS Conctorl LS",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Conrola o obs studio via api websocket",
   "icon": "build/icon.png",
   "private": true,
