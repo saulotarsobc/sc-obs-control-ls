@@ -48,30 +48,40 @@ export default function Home() {
         <div id="col-1" className="flex flex-col gap-1">
           <div
             className={`${
-              currentScene == "jw" && "bg-orange-500"
-            } text-white rounded-md border-2 h-24 aspect-video flex justify-center items-center`}
-            onClick={() => handleChangeSchene("jw")}
+              currentScene == "text" && "bg-slate-600"
+            } text-white rounded-md border-2 h-24 aspect-video flex justify-center items-center relative`}
+            onClick={() => handleChangeSchene("text")}
           >
-            JW
+            <div className="absolute top-1 text-black bg-white w-6 aspect-square rounded-full flex justify-center items-center">
+              1
+            </div>
+            TEXTO DO ANO
           </div>
+
           <div
             className={`${
-              currentScene == "next" && "bg-green-500"
-            } text-white rounded-md border-2 h-24 aspect-video flex justify-center items-center`}
-            onClick={() => handleChangeSchene("next")}
+              currentScene == "zoom-1" && "bg-blue-500"
+            } text-white rounded-md border-2 h-24 aspect-video flex justify-center items-center relative`}
+            onClick={() => handleChangeSchene("zoom-1")}
           >
-            INTELBRAS NEXT
+            <div className="absolute top-1 text-black bg-white w-6 aspect-square rounded-full flex justify-center items-center">
+              4
+            </div>
+            ZOOM 1
           </div>
         </div>
 
         <div id="col-2" className="flex flex-col gap-1">
           <div
             className={`${
-              currentScene == "text" && "bg-slate-600"
-            } text-white rounded-md border-2 h-24 aspect-video flex justify-center items-center`}
-            onClick={() => handleChangeSchene("text")}
+              currentScene == "jw" && "bg-orange-500"
+            } text-white rounded-md border-2 h-24 aspect-video flex justify-center items-center relative`}
+            onClick={() => handleChangeSchene("jw")}
           >
-            TEXTO DO ANO
+            <div className="absolute top-1 text-black bg-white w-6 aspect-square rounded-full flex justify-center items-center">
+              2
+            </div>
+            JW
           </div>
 
           <div className="h-24 aspect-video flex flex-col gap-1 justify-center items-center">
@@ -94,18 +104,25 @@ export default function Home() {
         <div id="col-3" className="flex flex-col gap-1">
           <div
             className={`${
-              currentScene == "zoom-1" && "bg-blue-500"
-            } text-white rounded-md border-2 h-24 aspect-video flex justify-center items-center`}
-            onClick={() => handleChangeSchene("zoom-1")}
+              currentScene == "next" && "bg-green-500"
+            } text-white rounded-md border-2 h-24 aspect-video flex justify-center items-center relative`}
+            onClick={() => handleChangeSchene("next")}
           >
-            ZOOM 1
+            <div className="absolute top-1 text-black bg-white w-6 aspect-square rounded-full flex justify-center items-center">
+              3
+            </div>
+            INTELBRAS NEXT
           </div>
+
           <div
             className={`${
               currentScene == "zoom-2" && "bg-blue-500"
-            } text-white rounded-md border-2 h-24 aspect-video flex justify-center items-center`}
+            } text-white rounded-md border-2 h-24 aspect-video flex justify-center items-center relative`}
             onClick={() => handleChangeSchene("zoom-2")}
           >
+            <div className="absolute top-1 text-black bg-white w-6 aspect-square rounded-full flex justify-center items-center">
+              5
+            </div>
             ZOOM 2
           </div>
         </div>

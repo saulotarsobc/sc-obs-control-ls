@@ -61,8 +61,8 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "zoom-2",
-    "current_program_scene": "zoom-2",
+    "current_scene": "text",
+    "current_program_scene": "text",
     "scene_order": [
         {
             "name": "text"
@@ -80,7 +80,7 @@
             "name": "zoom-2"
         }
     ],
-    "name": "pc-principal",
+    "name": "ls-teste",
     "groups": [
         {
             "prev_ver": 486604803,
@@ -183,12 +183,7 @@
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.show_scene_item.Fonte de cor": [],
-                "libobs.hide_scene_item.Fonte de cor": [],
-                "libobs.show_scene_item.Texto (GDI+)": [],
-                "libobs.hide_scene_item.Texto (GDI+)": []
-            },
+            "hotkeys": {},
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
@@ -295,12 +290,7 @@
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.show_scene_item.Fonte de cor 2": [],
-                "libobs.hide_scene_item.Fonte de cor 2": [],
-                "libobs.show_scene_item.Texto (GDI+) 2": [],
-                "libobs.hide_scene_item.Texto (GDI+) 2": []
-            },
+            "hotkeys": {},
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
@@ -407,12 +397,7 @@
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.show_scene_item.Fonte de cor 3": [],
-                "libobs.hide_scene_item.Fonte de cor 3": [],
-                "libobs.show_scene_item.Texto (GDI+) 3": [],
-                "libobs.hide_scene_item.Texto (GDI+) 3": []
-            },
+            "hotkeys": {},
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
@@ -519,12 +504,7 @@
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.show_scene_item.Fonte de cor 4": [],
-                "libobs.hide_scene_item.Fonte de cor 4": [],
-                "libobs.show_scene_item.Texto (GDI+) 4": [],
-                "libobs.hide_scene_item.Texto (GDI+) 4": []
-            },
+            "hotkeys": {},
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
@@ -631,12 +611,7 @@
             "push-to-mute-delay": 0,
             "push-to-talk": false,
             "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.show_scene_item.Fonte de cor 5": [],
-                "libobs.hide_scene_item.Fonte de cor 5": [],
-                "libobs.show_scene_item.Texto (GDI+) 4 2": [],
-                "libobs.hide_scene_item.Texto (GDI+) 4 2": []
-            },
+            "hotkeys": {},
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
@@ -842,117 +817,13 @@
         },
         {
             "prev_ver": 486604803,
-            "name": "janela do intelbras next",
-            "uuid": "9ffc6221-701c-4c21-892b-2f6b54654fde",
-            "id": "window_capture",
-            "versioned_id": "window_capture",
-            "settings": {
-                "cursor": false
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 486604803,
-            "name": "janela do jw",
-            "uuid": "e60bd930-8a78-49cb-983b-d0b8c38854e1",
-            "id": "window_capture",
-            "versioned_id": "window_capture",
-            "settings": {
-                "cursor": false
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 486604803,
-            "name": "janela do zoom para duas pessoal",
-            "uuid": "5ddf4d9b-a8a5-4aac-ba13-ede270addfb1",
-            "id": "window_capture",
-            "versioned_id": "window_capture",
-            "settings": {
-                "cursor": false
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 486604803,
-            "name": "janela do zoom para uma pessoa",
-            "uuid": "873b736e-9ebb-44e2-b6b6-feff007eca04",
-            "id": "window_capture",
-            "versioned_id": "window_capture",
-            "settings": {
-                "cursor": false
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 486604803,
             "name": "jw",
             "uuid": "0a0b69cc-e81a-45cd-8c85-e836359e6f50",
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 8,
+                "id_counter": 7,
                 "items": [
                     {
                         "name": "Fonte de cor 2",
@@ -1069,44 +940,6 @@
                         "private_settings": {
                             "collapsed": true
                         }
-                    },
-                    {
-                        "name": "janela do jw",
-                        "source_uuid": "e60bd930-8a78-49cb-983b-d0b8c38854e1",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 8,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
                     }
                 ]
             },
@@ -1123,10 +956,12 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.Fonte de cor 2": [],
+                "libobs.hide_scene_item.Fonte de cor 2": [],
+                "libobs.show_scene_item.Texto (GDI+) 2": [],
+                "libobs.hide_scene_item.Texto (GDI+) 2": [],
                 "libobs.show_scene_item.Grupo": [],
-                "libobs.hide_scene_item.Grupo": [],
-                "libobs.show_scene_item.janela do jw": [],
-                "libobs.hide_scene_item.janela do jw": []
+                "libobs.hide_scene_item.Grupo": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -1141,7 +976,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 4,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "Fonte de cor 3",
@@ -1255,46 +1090,6 @@
                         "hide_transition": {
                             "duration": 0
                         },
-                        "private_settings": {
-                            "collapsed": true
-                        }
-                    },
-                    {
-                        "name": "janela do intelbras next",
-                        "source_uuid": "9ffc6221-701c-4c21-892b-2f6b54654fde",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 4,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
                         "private_settings": {}
                     }
                 ]
@@ -1312,10 +1107,12 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.Fonte de cor 3": [],
+                "libobs.hide_scene_item.Fonte de cor 3": [],
                 "libobs.show_scene_item.Grupo 2": [],
                 "libobs.hide_scene_item.Grupo 2": [],
-                "libobs.show_scene_item.janela do intelbras next": [],
-                "libobs.hide_scene_item.janela do intelbras next": []
+                "libobs.show_scene_item.Texto (GDI+) 3": [],
+                "libobs.hide_scene_item.Texto (GDI+) 3": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -1330,7 +1127,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 5,
+                "id_counter": 4,
                 "items": [
                     {
                         "name": "Fonte de cor",
@@ -1445,46 +1242,8 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
-                    },
-                    {
-                        "name": "texto do ano",
-                        "source_uuid": "00254690-df4c-4be1-982e-a8b5ddfe4083",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 5,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
-                        "private_settings": {}
                     }
                 ]
             },
@@ -1501,10 +1260,12 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.Fonte de cor": [],
+                "libobs.hide_scene_item.Fonte de cor": [],
+                "libobs.show_scene_item.Texto (GDI+)": [],
+                "libobs.hide_scene_item.Texto (GDI+)": [],
                 "libobs.show_scene_item.fundo": [],
-                "libobs.hide_scene_item.fundo": [],
-                "libobs.show_scene_item.texto do ano": [],
-                "libobs.hide_scene_item.texto do ano": []
+                "libobs.hide_scene_item.fundo": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -1520,9 +1281,9 @@
             "settings": {
                 "chatlog": false,
                 "text": "text",
-                "outline": false,
                 "align": "left",
-                "valign": "center"
+                "valign": "center",
+                "outline": false
             },
             "mixers": 0,
             "sync": 0,
@@ -1607,9 +1368,9 @@
             "settings": {
                 "chatlog": false,
                 "outline": false,
-                "text": "zoom-1",
                 "align": "left",
-                "valign": "center"
+                "valign": "center",
+                "text": "zoom-1"
             },
             "mixers": 0,
             "sync": 0,
@@ -1660,39 +1421,13 @@
         },
         {
             "prev_ver": 486604803,
-            "name": "texto do ano",
-            "uuid": "00254690-df4c-4be1-982e-a8b5ddfe4083",
-            "id": "image_source",
-            "versioned_id": "image_source",
-            "settings": {
-                "file": "C:/Users/saulo/Imagens/obs/texto-do-ano-2024.png"
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 486604803,
             "name": "zoom-1",
             "uuid": "0b189993-0ec6-402b-9524-9f7792227a87",
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 4,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "Fonte de cor 4",
@@ -1806,46 +1541,6 @@
                         "hide_transition": {
                             "duration": 0
                         },
-                        "private_settings": {
-                            "collapsed": true
-                        }
-                    },
-                    {
-                        "name": "janela do zoom para uma pessoa",
-                        "source_uuid": "873b736e-9ebb-44e2-b6b6-feff007eca04",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 4,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
                         "private_settings": {}
                     }
                 ]
@@ -1863,10 +1558,12 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.Fonte de cor 4": [],
+                "libobs.hide_scene_item.Fonte de cor 4": [],
                 "libobs.show_scene_item.Grupo 3": [],
                 "libobs.hide_scene_item.Grupo 3": [],
-                "libobs.show_scene_item.janela do zoom para uma pessoa": [],
-                "libobs.hide_scene_item.janela do zoom para uma pessoa": []
+                "libobs.show_scene_item.Texto (GDI+) 4": [],
+                "libobs.hide_scene_item.Texto (GDI+) 4": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -1881,7 +1578,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 4,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "Fonte de cor 5",
@@ -1995,46 +1692,6 @@
                         "hide_transition": {
                             "duration": 0
                         },
-                        "private_settings": {
-                            "collapsed": true
-                        }
-                    },
-                    {
-                        "name": "janela do zoom para duas pessoal",
-                        "source_uuid": "5ddf4d9b-a8a5-4aac-ba13-ede270addfb1",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 4,
-                        "group_item_backup": false,
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 0
-                        },
-                        "hide_transition": {
-                            "duration": 0
-                        },
                         "private_settings": {}
                     }
                 ]
@@ -2052,10 +1709,12 @@
             "push-to-talk-delay": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.Fonte de cor 5": [],
+                "libobs.hide_scene_item.Fonte de cor 5": [],
                 "libobs.show_scene_item.Grupo 4": [],
                 "libobs.hide_scene_item.Grupo 4": [],
-                "libobs.show_scene_item.janela do zoom para duas pessoal": [],
-                "libobs.hide_scene_item.janela do zoom para duas pessoal": []
+                "libobs.show_scene_item.Texto (GDI+) 4 2": [],
+                "libobs.hide_scene_item.Texto (GDI+) 4 2": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
