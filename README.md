@@ -26,7 +26,7 @@ npm install;
 npm run dev;
 ```
 
-## OBS Config [👉 v29.1.3](https://www.obsstudio.net/latest-obs-studio/)
+## OBS Version ⚠️ [👉 v29.1.3](https://www.obsstudio.net/latest-obs-studio/)
 
 ### Login
 
