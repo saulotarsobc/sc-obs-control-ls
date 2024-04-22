@@ -1,14 +1,18 @@
 {
   "name": "sc-obs-control-ls",
+  "displayName": "SC - OBS Conctorl LS - 1.0.0",
   "version": "1.0.0",
-  "description": "SC - OBS Control - LS",
+  "description": "Conrola o obs studio via api websocket",
   "icon": "build/icon.png",
-  "private": false,
+  "private": true,
   "license": "MIT",
   "author": {
     "name": "Saulo Costa",
     "email": "saulotarsobc@gmail.com",
     "url": "https://github.com/saulotarsobc"
+  },
+  "repository": {
+    "url": "https://github.com/saulotarsobc/sc-obs-control-ls"
   },
   "main": "main/index.js",
   "scripts": {

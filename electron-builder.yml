@@ -1,5 +1,5 @@
-productName: SC - Next Electron
-appId: br.com.electron.next
+productName: SC - OBS Control LS
+appId: br.com.ls.control.obs.sc
 asar: true
 
 directories:
