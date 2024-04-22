@@ -2,7 +2,6 @@
 
 > Electron + Typescript + Next
 
-
 <div align="center">
   <img alt="banner app" src="./images/banner.png">
 </div>
